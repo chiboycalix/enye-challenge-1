@@ -10,7 +10,7 @@ function App() {
   return (
     <Layout>
       <Header style={{ position: "fixed", zIndex: 1, width: "100%" }}>
-        <h1 style={{ color: "#fff" }}>challenge</h1>
+        <h1 style={{ color: "#fff" }}>ENYE TECH CHALLENGE</h1>
       </Header>
           <div style={{ background: "#fff", padding: 24 }}>
             <FormField />
