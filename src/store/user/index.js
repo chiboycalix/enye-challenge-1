@@ -1,8 +1,2 @@
-import { initialState } from './state';
-import userReducer from './reducer'
-
-
-export default {
-  initialState,
-  userReducer,
-}
+export { default as actions } from './actions';
+export { default as reducer } from './reducer';

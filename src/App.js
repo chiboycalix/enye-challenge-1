@@ -17,7 +17,7 @@ function App() {
           <div style={{ background: "#fff", padding: 24 }}>
             <FormField />
           </div>
-      <Footer style={{ textAlign: "center" }}>Enye Tech challenge</Footer>
+      <Footer style={{ textAlign: "center", width: "100%"}}>Enye Tech challenge</Footer>
     </Layout>
   );
 }
